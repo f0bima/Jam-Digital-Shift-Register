@@ -1,6 +1,5 @@
 # Jam-Digital-Shift-Register
 
-[AYONGODING.COM](https://ayongoding.com/)
 > **Fauzan Bima**
 
 1. Arduino Nano
